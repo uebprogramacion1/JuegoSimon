@@ -1,6 +1,6 @@
 package controlador;
 
-public class Principal { 
+public class Principal {  
 
 	/*Integrantes
 	 * Laura Lopez

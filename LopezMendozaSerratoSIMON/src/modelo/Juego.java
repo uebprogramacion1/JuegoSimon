@@ -1,6 +1,6 @@
 package modelo;
 
-public class Juego {
+public class Juego { 
 	
 	private int[] nRepetir = new int[4];  
 	

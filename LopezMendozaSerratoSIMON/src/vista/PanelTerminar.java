@@ -7,7 +7,7 @@ import java.awt.GridLayout;
 import javax.swing.*;
 import javax.swing.border.LineBorder;
 
-public class PanelTerminar extends JPanel { 
+public class PanelTerminar extends JPanel {  
 
 	private static final long serialVersionUID = 1L; 
 	private JButton butTerminar;
