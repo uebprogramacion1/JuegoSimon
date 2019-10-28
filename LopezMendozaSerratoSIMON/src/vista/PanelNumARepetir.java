@@ -9,7 +9,7 @@ import javax.swing.border.LineBorder;
 
 public class PanelNumARepetir extends JPanel {
 
-	private static final long serialVersionUID = 1L;
+	private static final long serialVersionUID = 1L; 
 
 	private JLabel labNumRepetir;
 	private JTextField txtNum1, txtNum2, txtNum3, txtNum4;

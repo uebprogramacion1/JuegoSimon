@@ -12,7 +12,7 @@ public class Controlador implements ActionListener {
 	private Mundo mundo;
 	private Interfaz gui;
 	private int cont = 0;
-	private int[] patronIngresado = new int[4];
+	private int[] patronIngresado = new int[4]; 
 
 	public Controlador() {
 		mundo = new Mundo();

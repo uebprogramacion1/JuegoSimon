@@ -2,7 +2,7 @@ package modelo;
 
 public class Mundo {
 	
-	Juego juego = new Juego();
+	Juego juego = new Juego(); 
 
 	public Mundo() {
 

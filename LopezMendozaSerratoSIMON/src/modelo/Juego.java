@@ -2,7 +2,7 @@ package modelo;
 
 public class Juego {
 	
-	private int[] nRepetir = new int[4];
+	private int[] nRepetir = new int[4]; 
 	
 	public int[] darNumRepetir(){
 		for (int i = 0; i < nRepetir.length; i++) {
