@@ -8,7 +8,7 @@ import controlador.*;
 
 public class Interfaz extends JFrame{
 
-	private static final long serialVersionUID = 1L; 
+	private static final long serialVersionUID = 1L;  
 	
 	PanelNumARepetir panelNumARepetir;
 	PanelPatronUsuario panelPatronUsuario;

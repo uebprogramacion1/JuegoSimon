@@ -9,7 +9,7 @@ import javax.swing.border.LineBorder;
 
 public class PanelTerminar extends JPanel { 
 
-	private static final long serialVersionUID = 1L;
+	private static final long serialVersionUID = 1L; 
 	private JButton butTerminar;
 	public static final String TERMINAR = "Terminar";
 

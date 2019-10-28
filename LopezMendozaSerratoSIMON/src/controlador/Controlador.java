@@ -7,7 +7,7 @@ import javax.swing.JOptionPane;
 import modelo.Mundo;
 import vista.Interfaz;
 
-public class Controlador implements ActionListener {
+public class Controlador implements ActionListener { 
 
 	private Mundo mundo;
 	private Interfaz gui;

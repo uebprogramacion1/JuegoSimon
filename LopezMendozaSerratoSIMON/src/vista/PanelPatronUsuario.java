@@ -5,7 +5,7 @@ import java.awt.*;
 import javax.swing.*;
 import javax.swing.border.LineBorder;
 
-public class PanelPatronUsuario extends JPanel { 
+public class PanelPatronUsuario extends JPanel {  
 
 	private static final long serialVersionUID = 1L;
 	private JButton but1, but2, but3, but4;

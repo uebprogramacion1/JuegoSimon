@@ -7,7 +7,7 @@ import javax.swing.*;
 import javax.swing.border.LineBorder;
 
 
-public class PanelNumARepetir extends JPanel {
+public class PanelNumARepetir extends JPanel { 
 
 	private static final long serialVersionUID = 1L; 
 
