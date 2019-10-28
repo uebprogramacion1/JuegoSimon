@@ -8,6 +8,5 @@ public class Principal {
 		//LUIS ESTEBAN NIÑO
 		Controlador c = new Controlador();
 	}
-	
 
 }
